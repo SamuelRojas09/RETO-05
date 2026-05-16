@@ -1,4 +1,3 @@
-#from Shape.shapes import *
 from Shape.shapes import (
     Point,
     Line,
