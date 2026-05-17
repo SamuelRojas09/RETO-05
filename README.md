@@ -49,7 +49,18 @@ El archivo `main.py` se dejó separado para realizar todas las pruebas del progr
 El archivo `main.py` importa todas las clases desde:
 
 ```python
-from Shape.shapes import ...
+from Shape.shapes import (
+    Point,
+    Line,
+    Shape,
+    Rectangle,
+    Square,
+    Triangle,
+    Equilateral,
+    Isosceles,
+    Scalene,
+    RightTriangle
+)
 ```
 
 Luego se crean diferentes figuras geométricas para probar:
