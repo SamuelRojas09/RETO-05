@@ -91,16 +91,16 @@ RETO-5.Forma2/
 │
 ├── Shape/
 │   ├── __init__.py
-│   ├── point.py
-│   ├── line.py
-│   ├── shape.py
-│   ├── triangle.py
-│   ├── rectangle.py
-│   ├── square.py
 │   ├── equilateral.py
 │   ├── isosceles.py
+│   ├── line.py
+│   ├── point.py
+│   ├── rectangle.py
+│   ├── right_triangle.py
 │   ├── scalene.py
-│   └── right_triangle.py
+│   ├── shape.py
+│   ├── square.py
+│   └── triangle.py
 │
 └── main.py
 ```
