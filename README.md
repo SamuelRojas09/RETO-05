@@ -1,6 +1,5 @@
 # RETO 5 – Módulos y Paquetes en Python
 
-## Programación Orientada a Objetos – UNAL
 
 Este proyecto consiste en reorganizar el código del sistema de figuras geométricas usando módulos y paquetes en Python. El reto fue desarrollado de dos maneras diferentes:
 
